@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--ER0QWbWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8poooh7vsctzgstw6ent.gif)](https://rishavchanda.io)
+[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rohan Kumar Bhoi</h1>
 <h3 align="center">A Sofware Student in Zeal education Society Pune</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
