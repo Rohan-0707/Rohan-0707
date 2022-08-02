@@ -1,4 +1,4 @@
-[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/)](https://rishavchanda.io)
+[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/)](https://technicalrohan07.blogspot.com/)
 <h1 align="center">Hi 👋, I'm Rohan Kumar Bhoi</h1>
 <h3 align="center">A Sofware Student in Zeal education Society Pune</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
