@@ -1,4 +1,4 @@
-[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/)](https://github.com/Rohan-0707)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggkLNwqbx5vzEi1NUasTwv50ud6ErS613Bzog_tWxg4pERe917SaJ5XzELIIrfIY9BHw3w6s4HeHiVYlVQMj6qVHfzIzFAUzqryMoCIXUOcquVlgr3o2ZqEDPG--0kVCbgYxBmQ60kXSMvazk2CD7DQPM4LoWGMQtJs7uZ0P043wwlGY55xSUm2s-q/s16000/1655512977_preview_DeusExPREVIEW%20(1).gif)](https://github.com/Rohan-0707)
 <h1 align="center">Hi 👋, I'm Rohan Kumar Bhoi</h1>
 <h3 align="center">A Sofware Student in Zeal education Society Pune</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
