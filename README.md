@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, Java, C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rohan-0707/](https://github.com/Rohan-0707/)
+- 👨‍💻 All of my projects are available at [https://github.com/Rohan-0707?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.technicalrohan07.blogspot.com](https://www.technicalrohan07.blogspot.com)
 
