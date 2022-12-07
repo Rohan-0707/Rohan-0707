@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/rohan_kumarbhoi" target="blank"><img src="https://img.shields.io/twitter/follow/rohan_kumarbhoi?logo=twitter&style=for-the-badge" alt="rohan_kumarbhoi" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Java, C#**
+- 🌱 I’m currently learning **Python, Java, Artificial Intelligence, C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohan-0707?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.technicalrohan07.blogspot.com](https://www.technicalrohan07.blogspot.com)
+- 📝 I regularly write articles on [http://www.computertipstricks.tech](http://www.computertipstricks.tech/)
 
 - 💬 Ask me about **Java, Python, C & C++, VB.Net, Blogging**
 
-- 📫 How to reach me **rohanbhoi0707@gmail.com**
+- 📫 How to reach me **rohanbhoi1546@gmail.com**
 
 - ⚡ Fun fact **I am Creative**
 
