@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohan-0707?tab=repositories)
 
-- 📝 I regularly write articles on [http://www.computertipstricks.tech](http://www.computertipstricks.tech/)
+- 📝 I regularly write articles on [https://www.computertipstricks.tech](https://www.computertipstricks.tech/)
 
 - 💬 Ask me about **Java, Python, C & C++, VB.Net, Blogging**
 
