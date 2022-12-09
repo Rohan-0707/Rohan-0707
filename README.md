@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohan-0707&label=Profile%20views&color=0e75b6&style=flat" alt="Rohan-0707" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rohanbhoi07" target="blank"><img src="https://img.shields.io/twitter/follow/rohan_kumarbhoi?logo=twitter&style=for-the-badge" alt="rohan_kumarbhoi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rohanbhoi07" target="blank"><img src="https://img.shields.io/twitter/follow/rohanbhoi07?logo=twitter&style=for-the-badge" alt="rohanbhoi07" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Java, Artificial Intelligence, C#**
 
