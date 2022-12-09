@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohan-0707&label=Profile%20views&color=0e75b6&style=flat" alt="Rohan-0707" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rohan_kumarbhoi" target="blank"><img src="https://img.shields.io/twitter/follow/rohan_kumarbhoi?logo=twitter&style=for-the-badge" alt="rohan_kumarbhoi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rohanbhoi07" target="blank"><img src="https://img.shields.io/twitter/follow/rohan_kumarbhoi?logo=twitter&style=for-the-badge" alt="rohan_kumarbhoi" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Java, Artificial Intelligence, C#**
 
@@ -22,11 +22,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rohan_kumarbhoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohan_kumarbhoi" height="30" width="40" /></a>
+<a href="https://twitter.com/rohanbhoi07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohan_kumarbhoi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rohan-kumar-bhoi-bb7176213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-kumar-bhoi" height="30" width="40" /></a>
 <a href="https://fb.com/i.am.the.rohan.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="i.am.the.rohan.07" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_the_rohan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_the_rohan_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/technical rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technical rohan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codemakesrohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technical rohan" height="30" width="40" /></a>
 <a href="/https://dashboard.rss.com/podcasts/computer-tips-tricks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dashboard.rss.com/podcasts/computer-tips-tricks/" height="30" width="40" /></a>
 </p>
 
