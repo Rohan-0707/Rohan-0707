@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, Java, Artificial Intelligence, C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rohan-0707?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Rohan-0707?tab=repositories)
 
 - 📝 I regularly write articles on [Computer Tips Tricks.tech](https://www.computertipstricks.tech/)
 
