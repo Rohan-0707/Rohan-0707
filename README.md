@@ -27,12 +27,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rohanbhoi07" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/threads-app-icon.png" alt="rohanbhoi07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohan-kumar-bhoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-kumar-bhoi" height="30" width="40" /></a>
-<a href="https://fb.com/i.am.the.rohan.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="i.am.the.rohan.07" height="30" width="40" /></a>
-<a href="https://instagram.com/ceo_rohan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ceo_rohan_" height="30" width="40" /></a>
-<a href="https://medium.com/computer-tips-trick-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="computer-tips-trick-tech" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@codemakesrohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codemakesrohan" height="30" width="40" /></a>
+<a href="https://twitter.com/ceorohan1" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/twitter-x5265.logowik.com.webp" alt="ceorohan1" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/ceorohan" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="ceorohan" height="40" width="40" /></a>
+<a href="https://facebook.com/ceorohan" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg" alt="ceorohan" height="40" width="40" /></a>
+<a href="https://instagram.com/ceorohan" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="ceorohan" height="40" width="40" /></a>
+<a href="https://www.threads.net/@ceorohan" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Threads_%28app%29_logo.svg/2048px-Threads_%28app%29_logo.svg.png" alt="ceorohan" height="40" width="40" /></a>
+<a href="https://www.youtube.com/c/@codemakesrohan" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" alt="@codemakesrohan" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
