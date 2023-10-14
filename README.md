@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rohan Kumar Bhoi</h1>
 <h3 align="center">Chairman, Founder & CEO from India</h3>
-<img align="right" width="400" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" style="border-radius:10px;" alt="coding">
+<img align="right" width="400" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" style="border-radius:10; margin-top:10" alt="coding">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-0707&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-0707" /> </p>
